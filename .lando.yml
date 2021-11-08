@@ -1,0 +1,7 @@
+name: nestjs-best-practice
+recipe: mean
+
+config:
+  webroot: .
+  port: '3000'
+  command: npm run start:dev
